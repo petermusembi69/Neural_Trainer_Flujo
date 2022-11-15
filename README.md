@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Showcase
 
-<img src="https://github.com/petermusembi69/Neural_Trainer_Flujo/blob/main/gif/neural_onboarding.gif" width="280"/>`
+<img src="https://github.com/petermusembi69/Neural_Trainer_Flujo/blob/main/gif/neural_onboarding.gif" width="280"/>
